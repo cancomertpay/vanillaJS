@@ -1,0 +1,51 @@
+.font-merri {
+    font-family: 'Merriweather', serif;
+}
+.bg-yellow {
+    background-color: #FFC017 !important;
+}
+.border-bottom {
+    border-bottom: 1px solid !important;
+}
+.border-bottom-section {
+    border-bottom: 1px solid rgba(190, 190, 190, 0.425) !important;
+}
+.fs-small {
+    color: black;
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+}
+.text-num-trend {
+    color: #e6e6e6 !important;
+    font-size: 30px !important;
+    font-weight: bolder !important;
+}
+.xsmall {
+    font-weight: 1 !important;
+}
+.btn-us {
+    border-radius: 100px;
+    padding: 2px 8px;
+    font-size: 13px;
+    color: rgba(117, 117, 117, 1);
+    background-color: rgba(242, 242, 242, 1);
+}
+.btn-us:hover {
+    background-color: rgb(211, 211, 211) !important;
+}
+.aside-fixed {
+    position:fixed; top:0px; left:0px; right:0px; 
+    height:70px;
+}
+.btn:hover {
+    background-color: #fff !important;
+}
+.btn {
+    border: 1px solid rgba(230, 230, 230, 1) !important;
+}
+a {
+    text-decoration: none !important;
+}
+.strong {
+    font-weight: bold;
+}
